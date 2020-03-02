@@ -1,4 +1,4 @@
-# Insight_DataEngg_Challenge_Solution
+# DataEngg_Challenge_Solution
 This repository gives the solution to Insight's Data Engineering Coding Challenge.
 
 # Introduction
